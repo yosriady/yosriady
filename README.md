@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+<p align="center">
+  <br>
+  <br>
+  <br>
+  <samp>👋 Hi, I'm <a href="https://yos.io">Yos</a>. <br> I'm a Software Engineer based in Singapore.<br><br>#dapps #ethereum, #solidity</samp>
+  <br>
+  <br>
+  <br>
+</p>
+
+
+
 <!--
 **yosriady/yosriady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
