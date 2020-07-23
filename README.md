@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>👋 Hi, I'm <a href="https://yos.io">Yos</a>. <br> I'm a 👨🏻‍💻 Software Engineer based in ☀️ Singapore
+  <samp><strong>👋 Hi, I'm <a href="https://yos.io">Yos</a>.</strong> <br> I'm a 👨🏻‍💻 Software Engineer based in ☀️ Singapore
 <br><br>#dapps #ethereum, #solidity</samp>
   <br>
   <br>
