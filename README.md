@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp><strong>👋 Hi, I'm <a href="https://yos.io">Yos</a>.</strong> <br> I'm 👨🏻‍💻 an aspiring Shadowy Super Coder based in ☀️ Singapore
+  <samp><strong>👋 Hi, I'm <a href="https://yos.io">Yos</a>.</strong> <br> I'm 👨🏻‍💻 an Not So Shadowy Super Coder based in ☀️ Singapore
 <br><br>#blockchain #ethereum #solidity #defi #nft</samp>
   <br>
   <br>
