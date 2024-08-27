@@ -1,13 +1,16 @@
 ## Hi there 👋 I’m Yos
 
-I'm a web3 builder with a strong interest in security. I'm a smart contract engineer and technical lead at Chainlink Labs. 
+I'm a software craftsman navigating the idea maze and building in web3. 
 
 ![](https://yos.io/assets/recently.png)
 
 Check out my content on [yos.io](https://yos.io/).
 
-[Contact me](mailto:hello@yos.io) if you’re interested in chatting about web3 or a project you’re working on.
+[Send me an email](mailto:hello@yos.io) if you’re interested in chatting about web3 or a project you’re working on.
 
-[twitter]: https://twitter.com/yosriady
-[linkedin]: https://linkedin.com/in/yosriady
+----
+
+[X](https://twitter.com/yosriady)
+
+[Linkedin](https://linkedin.com/in/yosriady)
 
