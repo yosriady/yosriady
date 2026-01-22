@@ -4,11 +4,11 @@ I'm a software craftsman navigating the idea maze and building onchain.
 
 ![](https://yos.io/assets/recently.png)
 
-Check out my blog on [yos.io](https://yos.io/).
+I'm building [formo.so](https://formo.so) to make analytics simple for DeFi and crypto teams. Check out my blog on [yos.io](https://yos.io/).
 
-[Say hi](mailto:hello@yos.io) if you’re interested in chatting about web3 or a project you’re working on.
+[Say hi](mailto:hello@yos.io) if you’re interested in chatting about what you’re working on. 
 
 ----
 
-[X](https://twitter.com/yosriady) / [Linkedin](https://linkedin.com/in/yosriady)
+[X](https://x.com/yosriady) / [Linkedin](https://linkedin.com/in/yosriady)
 
